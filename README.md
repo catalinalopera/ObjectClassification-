@@ -22,7 +22,7 @@ This project demonstrates how to build and train a Convolutional Neural Network 
 - TensorFlow / Keras  
 - NumPy  
 - Matplotlib  
-- Google Colab or Jupyter Notebook  
+- Google Colab / Jupyter Notebook  / VSCode / Kaggle
 
 ---
 
