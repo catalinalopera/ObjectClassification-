@@ -30,3 +30,11 @@ This project demonstrates how to build and train a Convolutional Neural Network 
 
 The dataset should be organized as follows:
 
+data/
+train/
+pizza/
+no_pizza/
+test/
+pizza/
+no_pizza/
+
